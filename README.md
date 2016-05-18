@@ -1,2 +1,2 @@
 # amazonBookSpider
-a amazon book spider with scrapy and mysql
+an amazon book spider with scrapy and mysql
